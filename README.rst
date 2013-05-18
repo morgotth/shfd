@@ -44,7 +44,9 @@ Tests
 -----
 
 Test one version ::
+
 	python test_shfd.py
 
 Test all available versions ::
+
 	python test_multi_shfd.py
